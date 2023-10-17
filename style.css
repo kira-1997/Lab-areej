@@ -1,0 +1,27 @@
+.first{
+color: rgb(121, 63, 115);
+border: 3px dotted rgb(86, 83, 83);
+background-color: rgb(249, 228, 177);
+}
+
+.second{
+font-family: 'Trebuchet MS';
+}
+.h{
+    color: rgb(111, 52, 43);
+}
+
+
+.p2{
+background-color: rgb(219, 193, 193);
+
+}
+
+.h1{
+font-style: italic;
+color: rgb(79, 28, 78);
+}
+.third{
+font-style: oblique;
+
+}
